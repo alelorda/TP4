@@ -10,4 +10,5 @@
     <string name="textViewBienvenido">BIENVENIDO</string>
     <string name="editTextRepetirContrasenia">Nombre Usuario</string>
     <string name="editTextRepetirPasswordRegistro">Repetir Contraseña</string>
+    <string name="editTextemail">Correo Electrónico</string>
 </resources>
