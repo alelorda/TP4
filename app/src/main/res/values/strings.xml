@@ -8,6 +8,6 @@
     <string name="editTextNombreCompleto">Ingrese Nombre Completo</string>
     <string name="editTextCorreo">Ingrese Correo</string>
     <string name="textViewBienvenido">BIENVENIDO</string>
-
-
+    <string name="editTextRepetirContrasenia">Nombre Usuario</string>
+    <string name="editTextRepetirPasswordRegistro">Repetir Contraseña</string>
 </resources>
